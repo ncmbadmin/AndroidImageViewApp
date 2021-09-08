@@ -1,4 +1,4 @@
-package mbaas.com.nifty.androidimageviewapp;
+package mbaas.com.nifcloud.androidimageviewapp;
 
 import org.junit.Test;
 
